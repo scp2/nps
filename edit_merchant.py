@@ -3,8 +3,8 @@ import requests
 import json
 
 # Variaveis para conexão a API gsurf propig.
-endpoint_prod = 'https://sc3.gsurfnet.com/api'
-ws_key_propig_prod = '9ae5bc76-e126-6c77-8f39-3eaa10d6b2bf'
+endpoint_prod = ''
+ws_key_propig_prod = ''
 headers_default = {'Content-Type': 'aplication/json',
                    'ws_key': ws_key_propig_prod}
 
